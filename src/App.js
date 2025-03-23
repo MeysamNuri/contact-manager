@@ -159,6 +159,7 @@ const App = () => {
       )
     );
   }, 1000);
+  
 
   return (
     <ContactContext.Provider
